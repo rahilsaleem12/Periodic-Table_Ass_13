@@ -1,0 +1,14 @@
+
+ 
+  
+
+  a:hover {
+    font-size: 50px;
+    color: black;
+    
+  }
+  a:link{color: aqua;}
+  a:visited{color: rgb(43, 71, 109);}
+  td{font-size: 20px;}
+
+
