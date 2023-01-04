@@ -1,12 +1,26 @@
-
+/* 
  @media screen and (max-width: 500px) and (min-width: 300px) {
   body{background-color: black;
   color: aliceblue;
-  table-layout: 250px;
-  }
-  
- 
+  table-layout: 150px;
+  } 
 } 
+
+
+@media screen and (max-width: 800px) and (min-width: 600px) {
+  body{background-color: rgb(248, 0, 0);
+  color: rgb(0, 136, 255);
+  table-layout: 150px;
+  } 
+}
+
+
+@media screen and (max-width: 1650px) and (min-width: 1250px) {
+  body{background-color: rgb(0, 248, 12);
+  color: rgb(48, 52, 54);
+  table-layout: 150px;
+  }  */
+
 
   th:hover {
    font-size: 50px;
