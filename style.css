@@ -2,7 +2,7 @@
  @media screen and (max-width: 500px) and (min-width: 300px) {
   body{background-color: black;
   color: aliceblue;
-  width: 250px;
+  table-layout: 250px;
   }
   
  
