@@ -1,14 +1,22 @@
 
- 
-  
-
-  a:hover {
-    font-size: 50px;
-    color: black;
-    
+ @media screen and (max-width: 500px) and (min-width: 300px) {
+  body{background-color: black;
+  color: aliceblue;
   }
-  a:link{color: aqua;}
-  a:visited{color: rgb(43, 71, 109);}
-  td{font-size: 20px;}
+  th:hover{height: 10px;}
+ 
+} 
+
+  th:hover {
+   font-size: 50px;
+    color: rgb(255, 0, 0);
+    font-style:oblique;
+    height: auto;
+    width: auto;
+  
+  }
+p {font-size: 10px;
+  
+}
 
 
